@@ -1,0 +1,12 @@
+path: /content/drive/MyDrive/Smart-Waste-AI
+train: train/images
+val: val/images
+test: test/images
+nc: 6
+names:
+- Metal
+- Paper
+- Plastic
+- Random Trash
+- cardboard
+- glass
